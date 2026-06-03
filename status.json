@@ -1,41 +1,90 @@
-{
-  "updatedAt": "2026-06-03T12:16:51.037Z",
-  "results": [
-    {
-      "url": "https://google.com",
-      "status": "online",
-      "statusCode": 200,
-      "latency": 542,
-      "totalChecks": 3,
-      "totalFailures": 0,
-      "uptimePercentage": "100.00"
+[
+  {
+    "url": "https://google.com",
+    "totalChecks": 1,
+    "failedChecks": 0,
+    "recentChecks": [
+      {
+        "time": "2026-06-03T12:46:41.543Z",
+        "status": "UP",
+        "code": 301,
+        "latency": 40
+      }
+    ],
+    "dailyLogs": {
+      "2026-06-03": {
+        "total": 1,
+        "up": 1
+      }
     },
-    {
-      "url": "https://github.com",
-      "status": "online",
-      "statusCode": 200,
-      "latency": 296,
-      "totalChecks": 3,
-      "totalFailures": 0,
-      "uptimePercentage": "100.00"
+    "status": "UP",
+    "latency": 40,
+    "uptime": 100
+  },
+  {
+    "url": "https://github.com",
+    "totalChecks": 1,
+    "failedChecks": 0,
+    "recentChecks": [
+      {
+        "time": "2026-06-03T12:46:41.543Z",
+        "status": "UP",
+        "code": 200,
+        "latency": 12
+      }
+    ],
+    "dailyLogs": {
+      "2026-06-03": {
+        "total": 1,
+        "up": 1
+      }
     },
-    {
-      "url": "https://youtube.com",
-      "status": "online",
-      "statusCode": 200,
-      "latency": 675,
-      "totalChecks": 3,
-      "totalFailures": 0,
-      "uptimePercentage": "100.00"
+    "status": "UP",
+    "latency": 12,
+    "uptime": 100
+  },
+  {
+    "url": "https://youtube.com",
+    "totalChecks": 1,
+    "failedChecks": 0,
+    "recentChecks": [
+      {
+        "time": "2026-06-03T12:46:41.543Z",
+        "status": "UP",
+        "code": 301,
+        "latency": 43
+      }
+    ],
+    "dailyLogs": {
+      "2026-06-03": {
+        "total": 1,
+        "up": 1
+      }
     },
-    {
-      "url": "https://comix.to",
-      "status": "offline",
-      "statusCode": 403,
-      "latency": 292,
-      "totalChecks": 2,
-      "totalFailures": 2,
-      "uptimePercentage": "0.00"
-    }
-  ]
-}
+    "status": "UP",
+    "latency": 43,
+    "uptime": 100
+  },
+  {
+    "url": "https://comix.to",
+    "totalChecks": 1,
+    "failedChecks": 1,
+    "recentChecks": [
+      {
+        "time": "2026-06-03T12:46:41.543Z",
+        "status": "DOWN",
+        "code": 403,
+        "latency": 23
+      }
+    ],
+    "dailyLogs": {
+      "2026-06-03": {
+        "total": 1,
+        "up": 0
+      }
+    },
+    "status": "DOWN",
+    "latency": 23,
+    "uptime": 0
+  }
+]
