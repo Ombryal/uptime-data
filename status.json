@@ -1,0 +1,32 @@
+{
+  "updatedAt": "2026-06-03T07:40:20.197Z",
+  "results": [
+    {
+      "url": "https://google.com",
+      "status": "online",
+      "statusCode": 200,
+      "latency": 110,
+      "totalChecks": 1,
+      "totalFailures": 0,
+      "uptimePercentage": "100.00"
+    },
+    {
+      "url": "https://github.com",
+      "status": "online",
+      "statusCode": 200,
+      "latency": 26,
+      "totalChecks": 1,
+      "totalFailures": 0,
+      "uptimePercentage": "100.00"
+    },
+    {
+      "url": "https://youtube.com",
+      "status": "online",
+      "statusCode": 200,
+      "latency": 395,
+      "totalChecks": 1,
+      "totalFailures": 0,
+      "uptimePercentage": "100.00"
+    }
+  ]
+}
