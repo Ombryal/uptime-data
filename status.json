@@ -1,12 +1,12 @@
 {
-  "updatedAt": "2026-06-03T07:40:20.197Z",
+  "updatedAt": "2026-06-03T08:25:14.289Z",
   "results": [
     {
       "url": "https://google.com",
       "status": "online",
       "statusCode": 200,
-      "latency": 110,
-      "totalChecks": 1,
+      "latency": 130,
+      "totalChecks": 2,
       "totalFailures": 0,
       "uptimePercentage": "100.00"
     },
@@ -14,8 +14,8 @@
       "url": "https://github.com",
       "status": "online",
       "statusCode": 200,
-      "latency": 26,
-      "totalChecks": 1,
+      "latency": 206,
+      "totalChecks": 2,
       "totalFailures": 0,
       "uptimePercentage": "100.00"
     },
@@ -23,10 +23,19 @@
       "url": "https://youtube.com",
       "status": "online",
       "statusCode": 200,
-      "latency": 395,
-      "totalChecks": 1,
+      "latency": 495,
+      "totalChecks": 2,
       "totalFailures": 0,
       "uptimePercentage": "100.00"
+    },
+    {
+      "url": "https://comix.to",
+      "status": "offline",
+      "statusCode": 403,
+      "latency": 162,
+      "totalChecks": 1,
+      "totalFailures": 1,
+      "uptimePercentage": "0.00"
     }
   ]
 }
