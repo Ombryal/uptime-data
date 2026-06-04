@@ -1,7 +1,7 @@
 [
   {
     "url": "https://google.com",
-    "totalChecks": 8,
+    "totalChecks": 9,
     "failedChecks": 0,
     "recentChecks": [
       {
@@ -51,6 +51,12 @@
         "status": "UP",
         "code": 301,
         "latency": 96
+      },
+      {
+        "time": "2026-06-04T13:41:46.639Z",
+        "status": "UP",
+        "code": 301,
+        "latency": 82
       }
     ],
     "dailyLogs": {
@@ -59,17 +65,17 @@
         "up": 5
       },
       "2026-06-04": {
-        "total": 3,
-        "up": 3
+        "total": 4,
+        "up": 4
       }
     },
     "status": "UP",
-    "latency": 96,
+    "latency": 82,
     "uptime": 100
   },
   {
     "url": "https://github.com",
-    "totalChecks": 8,
+    "totalChecks": 9,
     "failedChecks": 0,
     "recentChecks": [
       {
@@ -119,6 +125,12 @@
         "status": "UP",
         "code": 200,
         "latency": 57
+      },
+      {
+        "time": "2026-06-04T13:41:46.639Z",
+        "status": "UP",
+        "code": 200,
+        "latency": 178
       }
     ],
     "dailyLogs": {
@@ -127,17 +139,17 @@
         "up": 5
       },
       "2026-06-04": {
-        "total": 3,
-        "up": 3
+        "total": 4,
+        "up": 4
       }
     },
     "status": "UP",
-    "latency": 57,
+    "latency": 178,
     "uptime": 100
   },
   {
     "url": "https://youtube.com",
-    "totalChecks": 8,
+    "totalChecks": 9,
     "failedChecks": 0,
     "recentChecks": [
       {
@@ -187,6 +199,12 @@
         "status": "UP",
         "code": 301,
         "latency": 89
+      },
+      {
+        "time": "2026-06-04T13:41:46.639Z",
+        "status": "UP",
+        "code": 301,
+        "latency": 102
       }
     ],
     "dailyLogs": {
@@ -195,18 +213,18 @@
         "up": 5
       },
       "2026-06-04": {
-        "total": 3,
-        "up": 3
+        "total": 4,
+        "up": 4
       }
     },
     "status": "UP",
-    "latency": 89,
+    "latency": 102,
     "uptime": 100
   },
   {
     "url": "https://comix.to",
-    "totalChecks": 8,
-    "failedChecks": 8,
+    "totalChecks": 9,
+    "failedChecks": 9,
     "recentChecks": [
       {
         "time": "2026-06-03T12:46:41.543Z",
@@ -255,6 +273,12 @@
         "status": "DOWN",
         "code": 403,
         "latency": 68
+      },
+      {
+        "time": "2026-06-04T13:41:46.639Z",
+        "status": "DOWN",
+        "code": 403,
+        "latency": 71
       }
     ],
     "dailyLogs": {
@@ -263,12 +287,12 @@
         "up": 0
       },
       "2026-06-04": {
-        "total": 3,
+        "total": 4,
         "up": 0
       }
     },
     "status": "DOWN",
-    "latency": 68,
+    "latency": 71,
     "uptime": 0
   }
 ]
