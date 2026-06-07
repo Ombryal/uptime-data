@@ -1,15 +1,9 @@
 [
   {
     "url": "https://google.com",
-    "totalChecks": 37,
+    "totalChecks": 38,
     "failedChecks": 0,
     "recentChecks": [
-      {
-        "time": "2026-06-05T14:12:49.554Z",
-        "status": "UP",
-        "code": 301,
-        "latency": 107
-      },
       {
         "time": "2026-06-05T16:43:44.383Z",
         "status": "UP",
@@ -123,6 +117,12 @@
         "status": "UP",
         "code": 301,
         "latency": 102
+      },
+      {
+        "time": "2026-06-07T02:01:30.598Z",
+        "status": "UP",
+        "code": 301,
+        "latency": 41
       }
     ],
     "dailyLogs": {
@@ -141,23 +141,21 @@
       "2026-06-06": {
         "total": 14,
         "up": 14
+      },
+      "2026-06-07": {
+        "total": 1,
+        "up": 1
       }
     },
     "status": "UP",
-    "latency": 102,
+    "latency": 41,
     "uptime": 100
   },
   {
     "url": "https://github.com",
-    "totalChecks": 37,
+    "totalChecks": 38,
     "failedChecks": 0,
     "recentChecks": [
-      {
-        "time": "2026-06-05T14:12:49.554Z",
-        "status": "UP",
-        "code": 200,
-        "latency": 107
-      },
       {
         "time": "2026-06-05T16:43:44.383Z",
         "status": "UP",
@@ -271,6 +269,12 @@
         "status": "UP",
         "code": 200,
         "latency": 17
+      },
+      {
+        "time": "2026-06-07T02:01:30.598Z",
+        "status": "UP",
+        "code": 200,
+        "latency": 14
       }
     ],
     "dailyLogs": {
@@ -289,23 +293,21 @@
       "2026-06-06": {
         "total": 14,
         "up": 14
+      },
+      "2026-06-07": {
+        "total": 1,
+        "up": 1
       }
     },
     "status": "UP",
-    "latency": 17,
+    "latency": 14,
     "uptime": 100
   },
   {
     "url": "https://youtube.com",
-    "totalChecks": 37,
+    "totalChecks": 38,
     "failedChecks": 0,
     "recentChecks": [
-      {
-        "time": "2026-06-05T14:12:49.554Z",
-        "status": "UP",
-        "code": 301,
-        "latency": 118
-      },
       {
         "time": "2026-06-05T16:43:44.383Z",
         "status": "UP",
@@ -419,6 +421,12 @@
         "status": "UP",
         "code": 301,
         "latency": 43
+      },
+      {
+        "time": "2026-06-07T02:01:30.598Z",
+        "status": "UP",
+        "code": 301,
+        "latency": 44
       }
     ],
     "dailyLogs": {
@@ -437,23 +445,21 @@
       "2026-06-06": {
         "total": 14,
         "up": 14
+      },
+      "2026-06-07": {
+        "total": 1,
+        "up": 1
       }
     },
     "status": "UP",
-    "latency": 43,
+    "latency": 44,
     "uptime": 100
   },
   {
     "url": "https://comix.to",
-    "totalChecks": 37,
-    "failedChecks": 37,
+    "totalChecks": 38,
+    "failedChecks": 38,
     "recentChecks": [
-      {
-        "time": "2026-06-05T14:12:49.554Z",
-        "status": "DOWN",
-        "code": 403,
-        "latency": 101
-      },
       {
         "time": "2026-06-05T16:43:44.383Z",
         "status": "DOWN",
@@ -567,6 +573,12 @@
         "status": "DOWN",
         "code": 403,
         "latency": 75
+      },
+      {
+        "time": "2026-06-07T02:01:30.598Z",
+        "status": "DOWN",
+        "code": 403,
+        "latency": 27
       }
     ],
     "dailyLogs": {
@@ -585,10 +597,14 @@
       "2026-06-06": {
         "total": 14,
         "up": 0
+      },
+      "2026-06-07": {
+        "total": 1,
+        "up": 0
       }
     },
     "status": "DOWN",
-    "latency": 75,
+    "latency": 27,
     "uptime": 0
   }
 ]
